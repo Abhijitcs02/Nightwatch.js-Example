@@ -1,9 +1,11 @@
 # Nightwatch.js-Example
 Selenium Javascript Night Watch example
 
-create a folder automation
+create a folder automation (you can take any name of the folder)
 
 cd automation
+
+extract this codebase zip file inside automation folder
 
 npm install nightwatch --save
 
